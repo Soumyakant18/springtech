@@ -1,6 +1,6 @@
-package com.example.prctice1.service;
+package com.example.springtech.service;
 
-import com.example.prctice1.entity.Login;
+import com.example.springtech.entity.Login;
 
 import java.util.List;
 

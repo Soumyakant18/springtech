@@ -1,4 +1,4 @@
-package com.example.prctice1.entity;
+package com.example.springtech.entity;
 
 
 import jakarta.persistence.*;

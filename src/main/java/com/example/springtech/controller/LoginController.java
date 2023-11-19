@@ -1,7 +1,7 @@
-package com.example.prctice1.controller;
+package com.example.springtech.controller;
 
-import com.example.prctice1.entity.Login;
-import com.example.prctice1.service.LoginService;
+import com.example.springtech.entity.Login;
+import com.example.springtech.service.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

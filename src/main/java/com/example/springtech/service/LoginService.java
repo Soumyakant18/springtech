@@ -1,7 +1,7 @@
-package com.example.prctice1.service;
+package com.example.springtech.service;
 
-import com.example.prctice1.entity.Login;
-import com.example.prctice1.repository.LoginRepo;
+import com.example.springtech.entity.Login;
+import com.example.springtech.repository.LoginRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.example.prctice1.repository;
+package com.example.springtech.repository;
 
-import com.example.prctice1.entity.Login;
+import com.example.springtech.entity.Login;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
