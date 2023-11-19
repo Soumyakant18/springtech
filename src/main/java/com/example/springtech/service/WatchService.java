@@ -1,14 +1,16 @@
-package com.example.springtech.service;
+package com.example.springtech.Service;
 
 import com.example.springtech.entity.Watch; // Replaced Headphone with Watch
 import com.example.springtech.repository.WatchRepository; // Updated repository import
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+
+
 import java.util.List;
 
 @Service
-public class WatchService implements Watchinterface { // Renamed HeadphoneService to WatchService
+public class WatchService implements com.example.springtech.service.Watchinterface { // Renamed HeadphoneService to WatchService
 
     @Autowired
     private WatchRepository watchRepository; // Updated repository type to WatchRepository
